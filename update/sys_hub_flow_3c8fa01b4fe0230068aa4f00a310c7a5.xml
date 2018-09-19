@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description>Closes Overdue NeedIt Tasks every Friday at 11 pm.</description>
+        <label_cache>[{"name":"739931e7-a4e8-4479-8719-0392bb5b1be3.item","label":"4➛NeedIt Task Record","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task Record"},{"name":"8434da6e-a613-4b1f-8b37-3c8fd788b6d0.Records","label":"3➛NeedIt Task Records","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task Records"},{"name":"cd467cec-7c74-4f2b-befa-a4168b0b32a9.calculated_date","label":"2➛calculated_date","reference_display":"calculated_date"},{"name":"a4b5a5dc-15aa-414c-a0c5-d386f3a96d05.property_value","label":"1➛property_value","reference_display":"property_value"},{"name":"8434da6e-a613-4b1f-8b37-3c8fd788b6d0.Table","label":"3➛NeedIt Task Table","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task Table"},{"name":"8434da6e-a613-4b1f-8b37-3c8fd788b6d0.Count","label":"3➛Count","reference_display":"Count"},{"name":"81a0823e-7593-4408-9991-21f144b91a51.record","label":"4.1➛NeedIt Task Record","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task Record"},{"name":"81a0823e-7593-4408-9991-21f144b91a51.table_name","label":"4.1➛NeedIt Task Table","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task Table"}]</label_cache>
+        <latest_snapshot/>
+        <name>Close Overdue NeedIt Tasks</name>
+        <remote_trigger_id/>
+        <show_draft_actions>false</show_draft_actions>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-19 20:55:22</sys_created_on>
+        <sys_id>3c8fa01b4fe0230068aa4f00a310c7a5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Close Overdue NeedIt Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_3c8fa01b4fe0230068aa4f00a310c7a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-19 21:20:52</sys_updated_on>
+    </sys_hub_flow>
+</record_update>
